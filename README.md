@@ -10,7 +10,7 @@
 
 -- In your terminal, type:
 
--   `git clone git@github.com:grupoboticario/prodfin-processamento-credito-bonds-process-raw-service.git`
+-   `git clone git@github.com:DevGla/Kafka-producer.git`
 
 ### 2 - To rise the aplication containers
 
